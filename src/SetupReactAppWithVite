@@ -1,0 +1,4 @@
+npm create vite@latest hello-world-app -- --template react
+cd hello-world-app
+npm install
+npm run dev
